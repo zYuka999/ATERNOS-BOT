@@ -2,7 +2,7 @@
   "client": {
     "host": "xiao89.aternos.me",
     "port": "48793",
-    "username": "Admin"
+    "username": "AdminYuka"
   },
   "logLevel": ["error", "log", "debug"],
   "action": {
