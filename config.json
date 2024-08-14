@@ -1,7 +1,7 @@
 {
   "client": {
-    "host": "Thee63.aternos.me",
-    "port": "35680",
+    "host": "8857.aternos.me",
+    "port": "48431",
     "username": "AdminYuka"
   },
   "logLevel": ["error", "log", "debug"],
