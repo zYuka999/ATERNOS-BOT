@@ -1,8 +1,8 @@
 {
   "client": {
-    "host": "ip.aternos.me",
-    "port": "25565",
-    "username": "Bot2024"
+    "host": "Thee63.aternos.me",
+    "port": "35680",
+    "username": "AdminYuka"
   },
   "logLevel": ["error", "log", "debug"],
   "action": {
