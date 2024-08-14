@@ -1,8 +1,8 @@
 {
   "client": {
-    "host": "8857.aternos.me",
-    "port": "48431",
-    "username": "AdminYuka"
+    "host": "xiao89.aternos.me",
+    "port": "48793",
+    "username": "Admin"
   },
   "logLevel": ["error", "log", "debug"],
   "action": {
